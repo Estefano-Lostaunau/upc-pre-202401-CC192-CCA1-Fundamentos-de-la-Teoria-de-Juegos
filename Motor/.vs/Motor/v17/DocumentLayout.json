@@ -1,0 +1,454 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\G701\\Pictures\\Motor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\Error.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\Error.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\MainGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\MainGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\ImageLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\ImageLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\InputManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\InputManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\IOManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\IOManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\Sprite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\Sprite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\Camera2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\Camera2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\GLTexture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\GLTexture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\TextureCache.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\TextureCache.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\ResourceManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\ResourceManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\picoPNG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\picoPNG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\GLTexture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\GLTexture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\GLS_Program.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\GLS_Program.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\Error.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\Error.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\Camera2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\Camera2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\ImageLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\ImageLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\InputManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\InputManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\IOManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\IOManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\picoPNG.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\picoPNG.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\ResourceManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\ResourceManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\TextureCache.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\TextureCache.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\GLS_Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\GLS_Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\Window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\Window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\Vertex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\Vertex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\G701\\Pictures\\Motor\\Motor\\MainGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\MainGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Error.cpp",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\Error.cpp",
+              "RelativeDocumentMoniker": "Motor\\Error.cpp",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\Error.cpp",
+              "RelativeToolTip": "Motor\\Error.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-05T13:46:58.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageLoader.cpp",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\ImageLoader.cpp",
+              "RelativeDocumentMoniker": "Motor\\ImageLoader.cpp",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\ImageLoader.cpp",
+              "RelativeToolTip": "Motor\\ImageLoader.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-05T13:47:12.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputManager.cpp",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\InputManager.cpp",
+              "RelativeDocumentMoniker": "Motor\\InputManager.cpp",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\InputManager.cpp",
+              "RelativeToolTip": "Motor\\InputManager.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-05T13:47:16.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOManager.cpp",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\IOManager.cpp",
+              "RelativeDocumentMoniker": "Motor\\IOManager.cpp",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\IOManager.cpp",
+              "RelativeToolTip": "Motor\\IOManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-05T13:47:22.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sprite.cpp",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\Sprite.cpp",
+              "RelativeDocumentMoniker": "Motor\\Sprite.cpp",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\Sprite.cpp",
+              "RelativeToolTip": "Motor\\Sprite.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-05T13:46:46.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Window.cpp",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\Window.cpp",
+              "RelativeDocumentMoniker": "Motor\\Window.cpp",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\Window.cpp",
+              "RelativeToolTip": "Motor\\Window.cpp",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwCoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-05T13:46:31.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainGame.cpp",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\MainGame.cpp",
+              "RelativeDocumentMoniker": "Motor\\MainGame.cpp",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\MainGame.cpp",
+              "RelativeToolTip": "Motor\\MainGame.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAcwCsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-05T13:37:49.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Camera2D.cpp",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\Camera2D.cpp",
+              "RelativeDocumentMoniker": "Motor\\Camera2D.cpp",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\Camera2D.cpp",
+              "RelativeToolTip": "Motor\\Camera2D.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-05T13:46:51.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GLTexture.cpp",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\GLTexture.cpp",
+              "RelativeDocumentMoniker": "Motor\\GLTexture.cpp",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\GLTexture.cpp",
+              "RelativeToolTip": "Motor\\GLTexture.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-05T13:54:07.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TextureCache.cpp",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\TextureCache.cpp",
+              "RelativeDocumentMoniker": "Motor\\TextureCache.cpp",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\TextureCache.cpp",
+              "RelativeToolTip": "Motor\\TextureCache.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-05T13:46:45.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResourceManager.cpp",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\ResourceManager.cpp",
+              "RelativeDocumentMoniker": "Motor\\ResourceManager.cpp",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\ResourceManager.cpp",
+              "RelativeToolTip": "Motor\\ResourceManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-05T13:55:02.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "picoPNG.cpp",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\picoPNG.cpp",
+              "RelativeDocumentMoniker": "Motor\\picoPNG.cpp",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\picoPNG.cpp",
+              "RelativeToolTip": "Motor\\picoPNG.cpp",
+              "ViewState": "AQIAAAQCAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-05T13:54:42.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GLTexture.h",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\GLTexture.h",
+              "RelativeDocumentMoniker": "Motor\\GLTexture.h",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\GLTexture.h",
+              "RelativeToolTip": "Motor\\GLTexture.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-05T13:50:36.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GLS_Program.h",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\GLS_Program.h",
+              "RelativeDocumentMoniker": "Motor\\GLS_Program.h",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\GLS_Program.h",
+              "RelativeToolTip": "Motor\\GLS_Program.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-05T13:50:37.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.h",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\Error.h",
+              "RelativeDocumentMoniker": "Motor\\Error.h",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\Error.h",
+              "RelativeToolTip": "Motor\\Error.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-05T13:50:39.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Camera2D.h",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\Camera2D.h",
+              "RelativeDocumentMoniker": "Motor\\Camera2D.h",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\Camera2D.h",
+              "RelativeToolTip": "Motor\\Camera2D.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-05T13:50:40.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ImageLoader.h",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\ImageLoader.h",
+              "RelativeDocumentMoniker": "Motor\\ImageLoader.h",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\ImageLoader.h",
+              "RelativeToolTip": "Motor\\ImageLoader.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-05T13:50:35.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\Main.cpp",
+              "RelativeDocumentMoniker": "Motor\\Main.cpp",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\Main.cpp",
+              "RelativeToolTip": "Motor\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-05T13:37:47.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InputManager.h",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\InputManager.h",
+              "RelativeDocumentMoniker": "Motor\\InputManager.h",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\InputManager.h",
+              "RelativeToolTip": "Motor\\InputManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-05T13:50:30.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IOManager.h",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\IOManager.h",
+              "RelativeDocumentMoniker": "Motor\\IOManager.h",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\IOManager.h",
+              "RelativeToolTip": "Motor\\IOManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-05T13:50:28.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "picoPNG.h",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\picoPNG.h",
+              "RelativeDocumentMoniker": "Motor\\picoPNG.h",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\picoPNG.h",
+              "RelativeToolTip": "Motor\\picoPNG.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-05T13:50:20.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ResourceManager.h",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\ResourceManager.h",
+              "RelativeDocumentMoniker": "Motor\\ResourceManager.h",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\ResourceManager.h",
+              "RelativeToolTip": "Motor\\ResourceManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-05T13:50:19.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TextureCache.h",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\TextureCache.h",
+              "RelativeDocumentMoniker": "Motor\\TextureCache.h",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\TextureCache.h",
+              "RelativeToolTip": "Motor\\TextureCache.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-05T13:50:19.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GLS_Program.cpp",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\GLS_Program.cpp",
+              "RelativeDocumentMoniker": "Motor\\GLS_Program.cpp",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\GLS_Program.cpp",
+              "RelativeToolTip": "Motor\\GLS_Program.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-05T13:47:00.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Window.h",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\Window.h",
+              "RelativeDocumentMoniker": "Motor\\Window.h",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\Window.h",
+              "RelativeToolTip": "Motor\\Window.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-05T13:50:17.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Vertex.h",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\Vertex.h",
+              "RelativeDocumentMoniker": "Motor\\Vertex.h",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\Vertex.h",
+              "RelativeToolTip": "Motor\\Vertex.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-05T13:50:13.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MainGame.h",
+              "DocumentMoniker": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\MainGame.h",
+              "RelativeDocumentMoniker": "Motor\\MainGame.h",
+              "ToolTip": "C:\\Users\\G701\\Pictures\\Motor\\Motor\\MainGame.h",
+              "RelativeToolTip": "Motor\\MainGame.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-05T13:45:01.398Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
