@@ -13,8 +13,8 @@ Este repositorio contiene la implementación de un motor de videojuegos 2D utili
 ### Uso:
 Para compilar el proyecto, asegúrate de tener instaladas las bibliotecas SDL y GLEW. Luego, simplemente compila los archivos fuente y ejecuta el programa resultante.
 
-### Entrega de TA02:
-Este repositorio corresponde a la entrega de la TA02. Se han realizado mejoras en el motor de videojuegos, incluyendo los siguientes cambios:
+### Entrega de TA03:
+Este repositorio corresponde a la entrega de la TA03. Se han realizado mejoras en el motor de videojuegos, incluyendo los siguientes cambios:
 
 * Se ha agregado la funcionalidad de cargar y mostrar imágenes en lugar de rectángulos.
 * Se ha mejorado el manejo de eventos de teclado y ratón para una interacción más fluida con el usuario.
