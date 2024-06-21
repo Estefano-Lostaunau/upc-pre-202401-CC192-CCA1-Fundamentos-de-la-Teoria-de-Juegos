@@ -88,7 +88,7 @@ void MainGame::initShaders()
 
 void MainGame::init() {
 	SDL_Init(SDL_INIT_EVERYTHING);
-	window.create("TA03", width, height, 0);
+	window.create("TA04", width, height, 0);
 	GLenum error = glewInit();
 	if (error != GLEW_OK) {
 		fatalError("Glew not initialized");
